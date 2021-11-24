@@ -6,6 +6,7 @@
     grid-gap: 10px;
     align-content: stretch;
     justify-content: stretch;
+    font-size: 2vw;
 }
 
 .header {
